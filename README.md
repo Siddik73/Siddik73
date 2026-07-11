@@ -278,7 +278,7 @@ Applied natural language processing to real-world app-store feedback, turning un
 ## 📚 What I'm Reading — daily.dev
 
 <a href="https://app.daily.dev/tanvirsiddik">
-  <img src="<a href="https://daily.dev/tanvirsiddik"><img src="https://api.daily.dev/devcards/v2/tI6l92svKvKYsqqG82Lf5.png?type=wide&r=rnk" width="652" alt="MD.TANVIR SIDDIK's Dev Card"/></a>
+  <img src=<a href="https://daily.dev/tanvirsiddik"><img src="https://api.daily.dev/devcards/v2/tI6l92svKvKYsqqG82Lf5.png?type=wide&r=rnk" width="652" alt="MD.TANVIR SIDDIK's Dev Card"/></a> width="356" alt="Tanvir Siddik's Dev Card"/>
 </a>
 
 </div>
