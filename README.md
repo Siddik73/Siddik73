@@ -346,8 +346,11 @@ Supported ERP implementation and QA, driving measurable data-accuracy improvemen
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Siddik73/Siddik73/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddik73/Siddik73/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddik73/Siddik73/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Siddik73/Siddik73/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+</picture>
 </div>
 
 ---
