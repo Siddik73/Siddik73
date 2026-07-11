@@ -45,13 +45,15 @@
 
 </div>
 
-class TanvirSiddik:
-    role      = "AI/ML Engineer & Full Stack Developer"
-    location  = "Rajshahi, Bangladesh"
-    education = "B.Sc. in Computer Science & Engineering"
-    focus     = ["Deep Learning", "Computer Vision", "NLP", "Full Stack Web"]
-    mindset   = "Product engineering — from research to shipped software"
-
+```typescript
+const tanvir = {
+  role: "AI/ML Engineer & Full Stack Developer",
+  location: "Rajshahi, Bangladesh",
+  education: "B.Sc. in Computer Science & Engineering",
+  focus: ["Deep Learning", "Computer Vision", "NLP", "Full Stack Web"],
+  mindset: "Product engineering — from research to shipped software",
+};
+```
 
 I'm a **Computer Science & Engineering graduate** and **IEEE-published researcher** who builds at the intersection of **applied machine learning** and **full stack product engineering**. My work spans **deep learning research** (CNN-based disease detection, ~89% accuracy), **explainable AI (Grad-CAM/XAI)**, and **production web applications** built with React, TypeScript, and Python.
 
