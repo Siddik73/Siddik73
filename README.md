@@ -211,54 +211,6 @@ Applied natural language processing to real-world app-store feedback, turning un
 
 ---
 
-<!-- ====================== EXPERIENCE ====================== -->
-<div align="center">
-
-## 💼 Experience
-
-</div>
-
-### Digital Marketing Virtual Intern · **Excelerate** (Dubai, UAE / USA — Remote)
-`Apr 2025 – May 2025`
-
-Ran data-driven marketing analysis across brand accounts, combining audience research with rigorous performance reporting.
-
-- Conducted social media audits and audience behavior analysis
-- Executed SEO research and keyword optimization
-- Produced written performance-feedback reports
-- Maintained **100% up-to-date** performance logs across a 6-week engagement for **2 brand accounts**
-
-`SEO` `Social Media Analytics` `Reporting` `Digital Marketing`
-
-<br/>
-
-### Data Visualization Intern · **Excelerate** (Dubai, UAE / USA — Remote)
-`Mar 2025 – Apr 2025`
-
-Delivered validated BI dashboards and data-quality improvements adopted across the team.
-
-- Built and validated **4+ Power BI and Tableau dashboards**
-- Identified **3 recurring data-quality gaps** and authored best-practice memos adopted team-wide
-- Maintained complete documentation; **zero misrepresented metrics** flagged in stakeholder review
-
-`Power BI` `Tableau` `Data Quality` `Documentation`
-
-<br/>
-
-### ERP QA & IT Support Intern · **Syntor IT** (Dhaka, Bangladesh — Startup)
-`Oct 2024 – Mar 2025`
-
-Supported ERP implementation and QA, driving measurable data-accuracy improvements and clean launches.
-
-- Supported implementation of **3 ERP modules**; improved stock-tracking accuracy by **15%**
-- Executed UAT across departments with **zero post-launch critical issues**
-- Maintained SQL-based QA reports adopted by the project manager
-- Coordinated documentation & data migration across **3 departments**; also freelance content & digital work
-
-`ERP` `QA / UAT` `SQL` `WordPress` `Documentation`
-
----
-
 <!-- ====================== ACHIEVEMENTS ====================== -->
 <div align="center">
 
